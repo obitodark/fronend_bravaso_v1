@@ -1,0 +1,10 @@
+export { default as PageDetailsProduct } from './DetailsProduct';
+export { default as PageListProduct } from './ListProduct/';
+export { default as PageShoppingCart } from './ShoppingCart/';
+export { default as PageRegitrationUser } from './RegistrationUser';
+export { default as PageAdminListUser } from './AdminListUser';
+export { default as PageMyAccount } from './MyAccount';
+export { default as PageAdminProduct } from './AdminListProduct';
+export { default as PageAdminListCategories } from './AdminListCategories';
+export { default as PageAdminListBrands } from './AdminListBrands';
+export { default as PageListProductFavorites } from './ListProductFavorite';
